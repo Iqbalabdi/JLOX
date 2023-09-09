@@ -1,1 +1,1 @@
-lox language interpreter, built by Java
+Lox language interpreter, built by Java
